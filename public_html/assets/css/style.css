@@ -1,0 +1,63 @@
+/* -----------------------------------
+	Fonts
+--------------------------------------------------------------------------------------------- */
+
+/*----- Headings -----*/
+
+@font-face {
+    font-family: Montserrat;
+    font-weight: 400;
+    src: url(../fonts/Montserrat-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: Montserrat;
+    font-weight: 500;
+    src: url(../fonts/Montserrat-SemiBold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: Montserrat;
+    font-weight: 700;
+    src: url(../fonts/Montserrat-Bold.ttf) format("truetype");
+}
+
+/*----- Content -----*/
+
+@font-face {
+    font-family: "Open Sans";
+    font-weight: 300;
+    src: url(../fonts/OpenSans-Light.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Open Sans";
+    font-weight: 400;
+    src: url(../fonts/OpenSans-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Open Sans";
+    font-weight: 700;
+    src: url(../fonts/OpenSans-Bold.ttf) format("truetype");
+}
+
+
+body {
+    text-align: center;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4 ,h5 ,h6 {
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.link {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 7px;
+    margin: 0 auto;
+    background-color: #000;
+}

@@ -1,0 +1,1 @@
+# Just a simple divider for your Bookmarks Bar
