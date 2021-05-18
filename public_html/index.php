@@ -8,7 +8,7 @@
     <title></title>
 </head>
 <body>
-    <h1>Just a simple divider for your Bookmarks Bar!</h1>
+    <h1>Just a simple divider for your Bookmarks Bar</h1>
     <a href="https://divider.pixelmotives.com/" class="link"></a>
 </body>
 </html>
